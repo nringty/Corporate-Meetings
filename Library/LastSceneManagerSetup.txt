@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Testing/Bar Graph/BarGraph Test.unity
+  isLoaded: 1
+  isActive: 1
